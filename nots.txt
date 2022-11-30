@@ -1,0 +1,27 @@
+https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exe_network
+
+bu klinkten cuda yukle
+sonra asagidaki adımları takip et
+
+https://stackoverflow.com/questions/59823283/could-not-load-dynamic-library-cudart64-101-dll-on-tensorflow-cpu-only-install
+
+
+
+
+
+
+
+datasets
+
+augmented alzeimer MRI datasets
+https://www.kaggle.com/datasets/uraninjo/augmented-alzheimer-mri-dataset
+
+Vegetable Image dataset
+https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset
+
+
+
+
+
+
+
